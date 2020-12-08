@@ -1,1 +1,1 @@
-# School
+# Practical Computing for Bioinformatics - Assigments
